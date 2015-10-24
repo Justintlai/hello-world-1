@@ -1,0 +1,1 @@
+This is a repository used to set up git in my local computer and link it with my github account
